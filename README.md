@@ -38,7 +38,7 @@ aplicando buenas prácticas de desarrollo y control de versiones con Git.
 <h2>🚀 Tecnologías utilizadas</h2>
 
 <ul>
-  <li>Laravel 10</li>
+  <li>Laravel 12</li>
   <li>PHP 8+</li>
   <li>MySQL</li>
   <li>Breeze</li>
